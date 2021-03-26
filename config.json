@@ -1,0 +1,17 @@
+{
+    "pairs":[
+        {
+            "name":"BTC-USD",
+            "precision":4
+        },
+        {
+            "name":"ETH-USD",
+            "precision":4
+        },
+        {
+            "name":"ETH-BTC",
+            "precision":8
+        }
+    ],
+    "source": "coinbase"
+}
