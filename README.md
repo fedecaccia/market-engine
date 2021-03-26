@@ -14,11 +14,9 @@ Use the following snippet to run the engine (you can just run `example.py` which
 from MarketEngine import MarketEngine
 
 
-if __name__ == "__main__":
-
-    m = MarketEngine()
-    m.loadConfig("config.json")
-    m.run()
+m = MarketEngine()
+m.loadConfig("config.json")
+m.run()
 ```
 
 ## How it Works
