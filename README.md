@@ -1,6 +1,6 @@
 # Market Engine
 
-Welcome to the source code of the crypto market engine to compute (VWAP)[https://en.wikipedia.org/wiki/Volume-weighted_average_price]. The `MarketEngine` class is exchange agnostic and it runs mutiple threads to stream/process data from the selected source. Right now, it only accepts `coinbase` as the market source.
+Welcome to the source code of the crypto market engine to compute [VWAP](https://en.wikipedia.org/wiki/Volume-weighted_average_price). The `MarketEngine` class is exchange agnostic and it runs mutiple threads to stream/process data from the selected source. Right now, it only accepts `coinbase` as the market source.
 
 ## Quickstart
 
