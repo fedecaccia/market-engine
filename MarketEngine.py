@@ -1,6 +1,6 @@
+import json
 from queue import Queue
 from threading import Lock
-import json
 
 from Client import CoinbaseClient
 from Worker import CoinbaseWorker
